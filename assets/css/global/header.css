@@ -1,0 +1,22 @@
+.header-nav,
+.main-nav {
+  display: flex;
+  align-items: center;
+}
+
+.header-nav {
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+.main-nav {
+  gap: 10px;
+}
+
+.main-nav a {
+  padding: 0 14px;
+  color:#EEEEEE;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 1rem;
+}
