@@ -1,7 +1,8 @@
 body {
   background: url("../../images/bg-lines.svg"), linear-gradient(270deg, #212121 0%, #010101 100%);
   background-repeat: no-repeat;
-  background-size:contain,auto;
+  background-size:cover,auto;
+  overflow: hidden;
 }
 
 .container {

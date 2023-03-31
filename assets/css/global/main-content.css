@@ -1,0 +1,65 @@
+.main-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-items: end;
+  gap: 60px;
+}
+
+.main-subtitle {
+  display: block;
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #A7A3A3;
+
+  margin-bottom: 12px;
+}
+
+.main-title {
+  font-family: 'Poppins',sans-serif;
+  font-size: 5rem;
+  line-height: 4.5rem;
+  font-weight: 600;
+  color: #EEEEEE;
+
+  margin-bottom: 24px;
+}
+
+.title-emphasis {
+  color:hsla(175, 100%, 54%, 1);
+}
+
+.main-paragraph {
+  font-family: 'Roboto',sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.7rem;
+  letter-spacing: 0.03rem;
+  color: #D7D7D7;
+
+  max-width: 65ch;
+  
+  margin-bottom: 36px;
+}
+
+.main-btn {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color:#001A1B;
+
+  background: linear-gradient(270deg, #85CACD 0%, #4DC6CB 100%);
+  border-radius: 8px;
+
+  padding: 8px 28px;
+  
+  transition: .3s;
+}
+
+.main-btn:hover {
+  background: linear-gradient(270deg, #85CACD 0%, #4DC6CB 10%);
+}
