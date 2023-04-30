@@ -1,4 +1,4 @@
-<img align="center" src="./.github/screenshot1.jpg">
+<img align="center" src="./assets/.github/screenshot1.jpg">
 
 <p align="center">Smart Finances is a web application built with vanilla JavaScript that explores the History API to provide a smooth user 
 experience when navigating between pages.</p>
@@ -21,7 +21,7 @@ I was able to improve my front-end skills and gain a better understanding of the
 more seamless user experience with smoother navigation and improved performance. By combining my front-end skills with my knowledge of the History API, I was 
 able to create an effective website that demonstrates the power of this tool.
 
-<img align="center" src="./.github/screenshot2.jpg">
+<img align="center" src="./assets/.github/screenshot2.jpg">
 
 ## Learning
 
