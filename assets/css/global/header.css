@@ -23,3 +23,35 @@
 }
 
 
+@media (max-width:880px) {
+  .header-nav {
+    margin-bottom: 60px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .header-nav img {
+    max-width: 200px;
+  }
+
+  .header-nav a{
+    font-size: 0.75rem;
+    display: block;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 5px;
+    padding: 10px;
+  }
+}
+
+@media (max-width:470px) {
+  .header-nav {
+    margin-bottom: 30px;
+  }
+}
+
+
+@media (max-width:350px) {
+  .header-nav {
+    margin-bottom: 20px;
+  }
+}

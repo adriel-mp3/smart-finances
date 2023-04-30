@@ -1,14 +1,14 @@
 body {
-  background: url("../../images/bg-lines.svg"), linear-gradient(270deg, #212121 0%, #010101 100%);
+  background: url("../../images/bg-lines.svg"), linear-gradient(270deg, #212121 0%, #010101 100%) center center no-repeat;
   background-repeat: no-repeat;
-  background-size:cover,auto;
-  overflow: hidden;
+  background-size:cover;
 }
 
 .container {
   margin: 0 auto;
   max-width: 1400px;
   padding: 0 20px;
+  overflow: hidden;
 }
 
 .animate-left {
