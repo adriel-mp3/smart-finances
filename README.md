@@ -2,6 +2,7 @@
 
 <p align="center">Smart Finances is a web application built with vanilla JavaScript that explores the History API to provide a smooth user 
 experience when navigating between pages.</p>
+
 <hr>
 
 
